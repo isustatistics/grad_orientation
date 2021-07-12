@@ -287,6 +287,9 @@ Free to do it yourself or curbside pickup by [Core Living Compost](https://corel
 - [Perfect Games](http://perfectgamesinc.com/PG/index.php/en/)
 - [Seven Oaks Recreation](https://sevenoaksrec.com/)
 
+- [Ames Community Theater](https://www.actorsinc.org/)
+- [Iowa State Center](https://www.center.iastate.edu/events/)
+
 - [Torrent Brewing Company](http://torrentbrewingco.com/)
 - [Alluvial Brewing](https://www.alluvialbrewing.com/)
 - [Prairie Moon Winery](https://prairiemoonwinery.com/)
