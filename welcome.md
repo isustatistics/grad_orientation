@@ -9,9 +9,17 @@ output:
 
 
 
-# Welcome to Ames, IA!
+# Getting to Ames, IA!
 
 ## Getting to Ames by plane!
+
+Arriving by plane at Des Moines International Airport (DSM)
+
+![](figs/dsm.png)
+
+## Take [Executive Express](https://www.executiveexpress.biz/shuttle-service) to Ames!
+
+![](figs/executive_express.png)
 
 ## Getting to Ames by car!
 

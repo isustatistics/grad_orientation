@@ -3,7 +3,7 @@ title: "ISU STAT Graduate Student Orientation"
 author: "Jarad Niemi"
 date: "`r Sys.Date()`"
 output: 
-  ioslides_presentation:
+  html_document:
     keep_md: true
 ---
 
