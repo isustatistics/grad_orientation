@@ -7,5 +7,6 @@ output:
     keep_md: true
 ---
 
-Testing the creation of ioslides presentation using markdown.
-Should it be R markdown?
+# Graduate Orientation Slides
+
+- [Welcome!](welcome.html)

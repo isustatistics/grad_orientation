@@ -1,0 +1,24 @@
+---
+title: "Welcome to Statistics at Iowa State University in Ames!"
+author: "Jarad Niemi"
+date: "`r Sys.Date()`"
+output: 
+  ioslides_presentation:
+    keep_md: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Welcome to Ames, IA!
+
+## Getting to Ames by plane!
+
+## Getting to Ames by car!
+
+## Getting a drivers license
+
+# Welcome to Iowa State University!
+
+# Welcome to ISU Statistics!
