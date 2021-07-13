@@ -1,0 +1,24 @@
+---
+title: "Welcome to [Iowa State University](https://www.iastate.edu/)!"
+author: "Jarad Niemi"
+date: "`r Sys.Date()`"
+output: 
+  ioslides_presentation:
+    widescreen: true
+    incremental: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Iowa State University
+
+## Location
+
+![](figs/cytes_ames_map.JPG){width=80%}
+
+## [Campus](https://www.fpm.iastate.edu/maps/)
+
+![](figs/campus_map.jpg){width=100%}
+

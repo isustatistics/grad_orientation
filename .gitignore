@@ -41,3 +41,4 @@ vignettes/*.pdf
 
 # Rmarkdown auxiliary files
 *.md
+index.html
