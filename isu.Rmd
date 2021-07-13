@@ -14,11 +14,75 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Iowa State University
 
+
+## [New Graduate Student Orientation](https://www.grad-college.iastate.edu/student/orientation/)
+
+- New Graduate Student Orientation on Thursday, August 27 at 5 p.m.
+- 
+
+
+
 ## Location
 
 ![](figs/cytes_ames_map.JPG){width=80%}
 
+## Campus in Ames
+
+![](figs/isu_campus.jpg){width=80%}
+
 ## [Campus](https://www.fpm.iastate.edu/maps/)
 
 ![](figs/campus_map.jpg){width=100%}
+
+
+## [Parking](https://www.parking.iastate.edu/) ($160 / year)
+
+![](figs/isu_parking.jpg){width=80%}
+
+[Graduate student commuter (lot 29) permits on sale July 21, 2021](https://www.parking.iastate.edu/permit/student/dates)
+
+
+## Free Parking on Nights and Weekends
+
+- Generally permits required 
+  - Monday - Friday 
+  - 7 am - 5:30 pm
+
+
+
+## Bicycles
+
+- [Registration](https://www.parking.iastate.edu/permit/bike) (free)
+  - recovering a stolen bike
+  - contact owner if bike is abandoned
+  - estimate biking population
+- Use bike lock on bike rack
+
+![](figs/bike_rack.jpg){width=40%}
+
+
+## [CyRide](https://www.cyride.com) - [ISU Campus Route Map](https://www.cyride.com/maps/school-year-maps/isu-campus-route-map)
+
+![](figs/snedecor_cyride.jpg){width=80%}
+
+
+
+## Organization
+
+- People
+- Colleges
+  - Departments
+
+## [ISU Organizational Chart](https://www.president.iastate.edu/sites/default/files/org/univorg.pdf)
+
+![](figs/isu_org_chart.JPG){width=100%}
+
+
+
+## College of Liberal Arts and Science
+
+## College of Agriculture and Life Science
+
+
+## Athletics
 
