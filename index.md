@@ -9,4 +9,5 @@ output:
 
 # Graduate Orientation Slides
 
-- [Welcome!](welcome.html)
+- Welcome to ...
+  - [Ames](ames.html)
