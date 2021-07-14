@@ -1,5 +1,5 @@
 ---
-title: "Welcome to [Ames, Iowa USA](https://www.cityofames.org/)!"
+title: "Welcome to [Ames](https://www.cityofames.org/), Iowa USA!"
 author: "Jarad Niemi"
 date: "`r Sys.Date()`"
 output: 
@@ -11,6 +11,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
 
 # Getting to Ames, IA!
 
@@ -196,11 +197,13 @@ while being [26th in size and 30st in population](https://www.ipl.org/div/statek
 ## Utilities
 
 
-### Natural gas
-### Electricity/Water/Sewer
-### Garbage/Recycling/Compost
-### Cell phones
-### Internet
+- Required
+  - [Natural gas](https://www.alliantenergy.com/)
+  - [Electricity/Water/Sewer](https://www.cityofames.org/government/departments-divisions-i-z/utilities-and-parking-tickets/municipal-utilities-online-customer-service)
+  - [Garbage/Recycling/Compost](https://www.cityofames.org/government/departments-divisions-i-z/resource-recovery-system/licensed-area-haulers)
+- Optional
+  - Cell phones
+  - Internet
 
 
 
@@ -216,7 +219,7 @@ while being [26th in size and 30st in population](https://www.ipl.org/div/statek
 - Laundry dryers
 
 
-## City of Ames Electric
+## [City of Ames Electric](https://www.cityofames.org/government/departments-divisions-a-h/electric/electric-utility-service)
 
 [Start service](https://www.cityofames.org/government/departments-divisions-i-z/utilities-and-parking-tickets/municipal-utilities-online-customer-service)
 
@@ -344,14 +347,19 @@ Free to do it yourself or curbside pickup by [Core Living Compost](https://corel
 ![](figs/snow_removal.jpg){width=90%}
 
 
-## Ames weather - thunderstorms/tornados
+## Thunderstorms/tornados/derecho
 
 ![](figs/derecho.jpg){width=90%}
 
-[siren test first Wednesday of every month at 10am](https://www.cityofames.org/Home/Components/Calendar/Event/8898/31)
+
 
 
 ## [Story County Severe Weather Alert](https://www.storycountyiowa.gov/1155/Story-County-Iowa-Alerts)
+
+- [Opt-In to Receive Severe Weather Alerts on your phone]](https://www.storycountyiowa.gov/1155/Story-County-Iowa-Alerts)
+- [siren test first Wednesday of every month at 10am](https://www.cityofames.org/Home/Components/Calendar/Event/8898/31)
+- [Tornado Watch < Tornado Warning](https://www.weather.gov/safety/tornado-ww)
+
 
 
 ## What to do in Ames - All year
@@ -385,4 +393,8 @@ https://isustatistics.github.io/grad_orientation/
 these slides are available at
 
 https://isustatistics.github.io/grad_orientation/ames.html
+
+provide updates by generating a pull request at 
+
+https://github.com/isustatistics/grad_orientation
 
