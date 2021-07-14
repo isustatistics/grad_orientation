@@ -16,4 +16,5 @@ output:
 
 - Welcome to ...
   - [Ames](ames.html)
-  - [Iowa State University](isu.html)
+  - [Iowa State University (ISU)](isu.html)
+  - [Statistics @ ISU](stat.html)

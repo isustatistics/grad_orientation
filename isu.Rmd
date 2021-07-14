@@ -190,6 +190,14 @@ Traffic near [Jack Trice Stadium](https://cyclones.com/facilities/midamerican-en
 
 ![](figs/isu_card.png){width=80%}
 
+## [ISU Laptop Requirement](https://www.it.iastate.edu/resources/requirementfaq)
+
+- [LAS Specifications](https://www.techcyte.isubookstore.com/major-success-las)
+  
+![](figs/las_laptop_requirements.png){width=80%}  
+
+
+
 
 ## Searching
 
