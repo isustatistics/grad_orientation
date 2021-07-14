@@ -15,13 +15,6 @@ knitr::opts_chunk$set(echo = TRUE)
 # Iowa State University
 
 
-## [New Graduate Student Orientation](https://www.grad-college.iastate.edu/student/orientation/)
-
-- New Graduate Student Orientation on Thursday, August 27 at 5 p.m.
-- 
-
-
-
 ## Location
 
 ![](figs/cytes_ames_map.JPG){width=80%}
@@ -33,6 +26,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ## [Campus Maps](https://www.fpm.iastate.edu/maps/)
 
 ![](figs/campus_map.jpg){width=90%}
+
+
+## [Campanile](https://www.fpm.iastate.edu/maps/buildings/building.asp?id=19)
+
+
+![](figs/campanile.jpg){width=60%}
+
+Chimes can be heard every 15 minutes
 
 
 ## [Parking](https://www.parking.iastate.edu/) ($160 / year)
@@ -76,12 +77,6 @@ Generally permits required Monday - Friday, 7 am - 5:30 pm
 
 ![](figs/commencement.jpg){width=80%}
 
-## Organization
-
-- People
-- Colleges
-  - Departments
-- Administration
 
 ## [ISU Organizational Chart](https://www.president.iastate.edu/sites/default/files/org/univorg.pdf)
 
@@ -138,16 +133,109 @@ Traffic near [Jack Trice Stadium](https://cyclones.com/facilities/midamerican-en
 
 # Get Involved
 
-## [Graduate and Professional Student Senate](https://www.gpss.iastate.edu/)
+
+## [Student Organizations](https://www.stuorg.iastate.edu/)
+
+![](figs/student_orgs.png){width=80%}
+
+## [Graduate Student Organizations](https://www.stuorg.iastate.edu/organizations/28/type)
+
+![](figs/grad_student_orgs.png){width=80%}
+
+
+## [Graduate and Professional Student Senate (GPSS)](https://www.gpss.iastate.edu/)
 
 ![](figs/gpss.jpg){width=80%}
+
 
 ## [R-Ladies Ames](https://www.meetup.com/rladies-ames/)
 
 ![](figs/rladies.JPG){width=80%}
 
-# ISU Lecture Series
+
+# Large research university events
 
 ## [ISU Lecture Series](https://www.lectures.iastate.edu/)
 
+![](figs/lecture_series.png){width=80%}
 
+## [Iowa State Center Performing Arts Series](https://www.center.iastate.edu/broadway/)
+
+![](figs/performing_arts.png){width=80%}
+
+
+# Academics
+
+## [Academic calendar](https://www.registrar.iastate.edu/calendar)
+
+![](figs/fall_calendar.png){width=80%}
+
+
+
+## [Classes](https://classes.iastate.edu/)
+
+![](figs/classes.png){width=80%}
+
+
+## [Course catalog](https://catalog.iastate.edu/)
+
+![](figs/catalog.png){width=80%}
+
+
+## [Registration](https://catalog.iastate.edu/registration/)
+
+![](figs/registration.png){width=80%}
+
+## [ISU Card](https://www.isucard.iastate.edu/)
+
+![](figs/isu_card.png){width=80%}
+
+
+## Searching
+
+search for 
+
+> iastate ...
+
+for example
+
+> iastate academic calendar
+
+
+
+# Student Services
+
+
+## [Student Services](https://catalog.iastate.edu/studentservices/)
+
+![](figs/student_services.png){width=80%}
+
+
+## [Thielen Student Health Services](https://health.iastate.edu/)
+
+![](figs/health.png){width=80%}
+
+
+## [Student Accessibility Services](https://sas.dso.iastate.edu/)
+
+![](figs/student_accessibility_services.png){width=80%}
+
+## [Career Services](https://www.career.iastate.edu/)
+
+![](figs/career_services.png){width=80%}
+
+
+
+
+# Questions?
+
+
+## Slides online
+
+all orientation slides are available at 
+
+https://isustatistics.github.io/grad_orientation/
+
+these slides are available at
+
+https://isustatistics.github.io/grad_orientation/isu.html

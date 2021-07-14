@@ -371,6 +371,8 @@ Free to do it yourself or curbside pickup by [Core Living Compost](https://corel
 
 ![](figs/seven_oaks.png){width=100%}
 
+# Questions?
+
 ## Slides online
 
 all orientation slides are available at 
@@ -381,7 +383,3 @@ these slides are available at
 
 https://isustatistics.github.io/grad_orientation/ames.html
 
-
-# Welcome to Iowa State University!
-
-# Welcome to ISU Statistics!
