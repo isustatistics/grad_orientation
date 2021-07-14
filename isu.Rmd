@@ -28,11 +28,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Campus in Ames
 
-![](figs/isu_campus.jpg){width=80%}
+![](figs/ames_dmv.jpg){width=100%}
 
-## [Campus](https://www.fpm.iastate.edu/maps/)
+## [Campus Maps](https://www.fpm.iastate.edu/maps/)
 
-![](figs/campus_map.jpg){width=100%}
+![](figs/campus_map.jpg){width=90%}
 
 
 ## [Parking](https://www.parking.iastate.edu/) ($160 / year)
@@ -44,10 +44,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Free Parking on Nights and Weekends
 
-- Generally permits required 
-  - Monday - Friday 
-  - 7 am - 5:30 pm
+Generally permits required Monday - Friday, 7 am - 5:30 pm
 
+![](figs/isu_parking.jpg){width=70%}
 
 
 ## Bicycles
@@ -66,23 +65,85 @@ knitr::opts_chunk$set(echo = TRUE)
 ![](figs/snedecor_cyride.jpg){width=80%}
 
 
+# Organization
+
+
+## Iowa State University
+
+- In [Top 50 largest colleges and universities in U.S.](https://www.collegexpress.com/lists/list/the-50-largest-us-colleges-and-universities/361/)
+  - ~30,000 undergraduate students
+  - ~5,000 graduate students
+
+![](figs/commencement.jpg){width=80%}
 
 ## Organization
 
 - People
 - Colleges
   - Departments
+- Administration
 
 ## [ISU Organizational Chart](https://www.president.iastate.edu/sites/default/files/org/univorg.pdf)
 
 ![](figs/isu_org_chart.JPG){width=100%}
 
+## [President Wintersteen](https://www.president.iastate.edu/)
+
+![](figs/wintersteen.jpg){width=90%}
 
 
-## College of Liberal Arts and Science
-
-## College of Agriculture and Life Science
 
 
-## Athletics
+## [Provost Wickert](https://www.provost.iastate.edu/)
+
+![](figs/wickert.jpg){width=70%}
+
+
+## [Dean Schmittman](https://las.iastate.edu/office-of-the-dean/) - [LAS](https://las.iastate.edu/)
+
+![](figs/schmittmann.jpg){width=70%}
+
+
+
+## [Dean Robison](https://www.cals.iastate.edu/about/administration) - [CALS](https://www.cals.iastate.edu/)
+
+![](figs/robison.jpg){width=70%}
+
+
+## [Dean Graves](https://www.grad-college.iastate.edu/contact/) - [Graduate College](https://www.grad-college.iastate.edu/)
+
+![](figs/graves.jpg){width=70%}
+
+
+# Athletics
+
+## [Cyclones](https://cyclones.com/)
+
+![](figs/sports.jpg){width=100%}
+
+## [Cy](http://historicexhibits.lib.iastate.edu/Cy/home.html) (mascot)
+
+![](figs/cy.jpg){width=80%}
+
+## [Student Tickets](https://cyclones.com/sports/2015/3/2/GEN_201401015.aspx?path=general)
+
+![](figs/student_tickets.jpg){width=90%}
+
+## [Football Schedule](https://cyclones.com/sports/football/schedule)
+
+![](figs/football_schedule.jpg){width=70%}
+
+Traffic near [Jack Trice Stadium](https://cyclones.com/facilities/midamerican-energy-field-at-jack-trice-stadium/14) increases during home football games
+
+
+# Get Involved
+
+## [Graduate and Professional Student Senate](https://www.gpss.iastate.edu/)
+
+![](figs/gpss.jpg){width=80%}
+
+## [R-Ladies Ames](https://www.meetup.com/rladies-ames/)
+
+![](figs/rladies.JPG){width=80%}
+
 
