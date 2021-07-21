@@ -88,7 +88,17 @@ knitr::opts_chunk$set(echo = TRUE)
 </div>
 
 
+## [Mark Kaiser](https://www.stat.iastate.edu/people/mark-kaiser) - Director of Graduate Studies
 
+<div style="float: left; width: 20%;">
+![](figs/mark_kaiser.jpg){width=100%}
+
+</div>
+
+<div style="float: right; width: 80%;">
+- Your "major professor" when you enter the program
+- Ask questions related to the Statistics Program
+</div>
 
 
 ## [Dan Nettleton](https://www.stat.iastate.edu/people/dan-nettleton) - Department Chair
@@ -98,12 +108,73 @@ knitr::opts_chunk$set(echo = TRUE)
 </div>
 
 <div style="float: right; width: 80%;">
-+ This text is on the right
+Dan is extremely friendly, but also extremely busy. 
 </div>
 
   
+# Academics
 
-## 
+## [Graduate Program](https://www.stat.iastate.edu/graduate-program)
+
+- [Master of Science in Statistics](https://www.stat.iastate.edu/master-science-requirements)
+- [PhD in Statistics](https://www.stat.iastate.edu/phd-requirements)
+
+
+# Computing
+
+## [Computing Resources](https://www.stat.iastate.edu/graduate-it-orientation)
+
+- Personal laptop
+- Departmental resources
+  - pyrite
+  - pronto
+- [University resources](https://www.hpc.iastate.edu/)
+
+
+
+## [Laptop requirement](https://www.it.las.iastate.edu/student-computer-recommendations)
+
+- Software
+  - [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/)
+  - [LaTeX](https://www.latex-project.org/)
+  - [MS Office](http://office365.iastate.edu/)
+  
+
+  
+  
+
+# Get Involved
+
+## [STAT-ers](https://www.stat.iastate.edu/isu-stat-ers)
+
+- STAT Graduate Student Organization
+- First meeting of the year typically occurs after first departmental seminar
+- Various [departmental and student committees](https://www.stuorg.iastate.edu/stat-ers) available
+
+
+
+## STATcom
+
+> StatCom offers statistical advice and expertise free of charge to governmental and nonprofit groups in the local community
+
+## Research Groups
+
+- Survey 
+- Graphical statistics
+
+
+
+# Communication
+
+## Communication
+
+- MS Teams group
+- Email, e.g. statgrad
+
+## File sharing
+
+- File sharing through [CyBox](https://iastate.box.com/)
+- T: drive 
 
 
 # Questions?
