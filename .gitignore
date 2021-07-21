@@ -42,3 +42,6 @@ vignettes/*.pdf
 # Rmarkdown auxiliary files
 *.md
 index.html
+
+# Mac auxiliary files
+.DS_Store
