@@ -65,6 +65,12 @@ Generally permits required Monday - Friday, 7 am - 5:30 pm
 
 ![](figs/snedecor_cyride.jpg){width=80%}
 
+## Take a look at campus or Ames using [Google StreetView](https://support.google.com/maps/answer/3093484)
+
+
+![](figs/google_streetview.png){width=90%}
+
+
 
 # Organization
 
@@ -84,7 +90,7 @@ Generally permits required Monday - Friday, 7 am - 5:30 pm
 
 ## [President Wintersteen](https://www.president.iastate.edu/)
 
-![](figs/wintersteen.jpg){width=90%}
+![](figs/wintersteen.jpg){width=70%}
 
 
 
@@ -108,60 +114,6 @@ Generally permits required Monday - Friday, 7 am - 5:30 pm
 ## [Dean Graves](https://www.grad-college.iastate.edu/contact/) - [Graduate College](https://www.grad-college.iastate.edu/)
 
 ![](figs/graves.jpg){width=70%}
-
-
-# Athletics
-
-## [Cyclones](https://cyclones.com/)
-
-![](figs/sports.jpg){width=100%}
-
-## [Cy](http://historicexhibits.lib.iastate.edu/Cy/home.html) (mascot)
-
-![](figs/cy.jpg){width=80%}
-
-## [Student Tickets](https://cyclones.com/sports/2015/3/2/GEN_201401015.aspx?path=general)
-
-![](figs/student_tickets.jpg){width=90%}
-
-## [Football Schedule](https://cyclones.com/sports/football/schedule)
-
-![](figs/football_schedule.jpg){width=70%}
-
-Traffic near [Jack Trice Stadium](https://cyclones.com/facilities/midamerican-energy-field-at-jack-trice-stadium/14) increases during home football games
-
-
-# Get Involved
-
-
-## [Student Organizations](https://www.stuorg.iastate.edu/)
-
-![](figs/student_orgs.png){width=80%}
-
-## [Graduate Student Organizations](https://www.stuorg.iastate.edu/organizations/28/type)
-
-![](figs/grad_student_orgs.png){width=80%}
-
-
-## [Graduate and Professional Student Senate (GPSS)](https://www.gpss.iastate.edu/)
-
-![](figs/gpss.jpg){width=80%}
-
-
-## [R-Ladies Ames](https://www.meetup.com/rladies-ames/)
-
-![](figs/rladies.JPG){width=80%}
-
-
-# Large research university events
-
-## [ISU Lecture Series](https://www.lectures.iastate.edu/)
-
-![](figs/lecture_series.png){width=80%}
-
-## [Iowa State Center Performing Arts Series](https://www.center.iastate.edu/broadway/)
-
-![](figs/performing_arts.png){width=80%}
 
 
 # Academics
@@ -232,6 +184,73 @@ for example
 
 ![](figs/career_services.png){width=80%}
 
+
+
+
+# Large research university events
+
+## [ISU Lecture Series](https://www.lectures.iastate.edu/)
+
+![](figs/lecture_series.png){width=80%}
+
+## [Iowa State Center Performing Arts Series](https://www.center.iastate.edu/broadway/)
+
+![](figs/performing_arts.png){width=80%}
+
+
+
+# Get Involved
+
+
+## [Student Organizations](https://www.stuorg.iastate.edu/)
+
+![](figs/student_orgs.png){width=80%}
+
+## [Graduate Student Organizations](https://www.stuorg.iastate.edu/organizations/28/type)
+
+![](figs/grad_student_orgs.png){width=80%}
+
+
+## [Graduate and Professional Student Senate (GPSS)](https://www.gpss.iastate.edu/)
+
+![](figs/gpss.jpg){width=80%}
+
+
+## [R-Ladies Ames](https://www.meetup.com/rladies-ames/)
+
+![](figs/rladies.JPG){width=80%}
+
+
+
+
+# Athletics
+
+## [Cyclones](https://cyclones.com/)
+
+![](figs/sports.jpg){width=100%}
+
+## [Cy](http://historicexhibits.lib.iastate.edu/Cy/home.html) (mascot)
+
+![](figs/cy.jpg){width=80%}
+
+## [Student Tickets](https://cyclones.com/sports/2015/3/2/GEN_201401015.aspx?path=general)
+
+![](figs/student_tickets.jpg){width=90%}
+
+## [Football Schedule](https://cyclones.com/sports/football/schedule)
+
+![](figs/football_schedule.jpg){width=70%}
+
+Traffic near [Jack Trice Stadium](https://cyclones.com/facilities/midamerican-energy-field-at-jack-trice-stadium/14) increases during home football games
+
+
+## [Club sports](https://www.recservices.iastate.edu/sportclubs/sport-club-directory/)
+
+![](figs/club_sports.png){width=70%}
+
+## [Intramurals](https://www.recservices.iastate.edu/im/)
+
+![](figs/intramurals.png){width=70%}
 
 
 
