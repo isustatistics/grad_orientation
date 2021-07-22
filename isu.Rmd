@@ -19,6 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![](figs/cytes_ames_map.JPG){width=80%}
 
+
 ## Campus in Ames
 
 ![](figs/ames_dmv.jpg){width=100%}
@@ -134,9 +135,20 @@ Generally permits required Monday - Friday, 7 am - 5:30 pm
 ![](figs/catalog.png){width=80%}
 
 
+## STAT graduate courses for non-STAT students
+
+![](figs/stat571.png){width=80%}
+
+
 ## [Registration](https://catalog.iastate.edu/registration/)
 
 ![](figs/registration.png){width=80%}
+
+
+## [Canvas Course Management](https://canvas.iastate.edu/)
+
+![](figs/canvas.png){width=80%} 
+
 
 ## [ISU Card](https://www.isucard.iastate.edu/)
 
@@ -149,8 +161,6 @@ Generally permits required Monday - Friday, 7 am - 5:30 pm
 ![](figs/las_laptop_requirements.png){width=80%}  
 
 
-
-
 ## Searching
 
 search for 
@@ -160,6 +170,8 @@ search for
 for example
 
 > iastate academic calendar
+
+
 
 
 
