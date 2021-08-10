@@ -1,7 +1,7 @@
 ---
 title: "ISU STAT Graduate Student Orientation"
 author: "Jarad Niemi"
-date: "2021-07-22"
+date: "2021-08-10"
 output: 
   html_document:
     keep_md: true
@@ -18,3 +18,9 @@ output:
   - [Ames](ames.html)
   - [Iowa State University (ISU)](isu.html)
   - [Statistics @ ISU](stat.html)
+- How to TA!
+  - [Assistantships.docx](files/Assistantships.docx)
+  - [SummerSeminarSeries.pdf](files/SummerSeminarSeries.pdf)
+- Mathematical Background
+  - [Introduction to Linear Algebra](files/StatLinearAlgebraIntro.pdf)
+  - [Some required calculus skills for STAT 542 & 543](files/STAT542_543_Calculus.pdf)
