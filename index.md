@@ -10,7 +10,7 @@ output:
 # Graduate Orientation 
 
 - Additional orientation sessions:
-  - Departmental Orientation on Friday before first week of class
+  - 20 Aug 2021 at 2pm
   - [Graduate College New Student Orientation](https://www.grad-college.iastate.edu/student/orientation/) 
 
 
