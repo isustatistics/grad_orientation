@@ -24,3 +24,4 @@ output:
 - Mathematical Background
   - [Introduction to Linear Algebra](files/StatLinearAlgebraIntro.pdf)
   - [Some required calculus skills for STAT 542 & 543](files/STAT542_543_Calculus.pdf)
+- [Department Orientation](files/studentorientation2021.pdf)
