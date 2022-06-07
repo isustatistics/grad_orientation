@@ -88,7 +88,7 @@ Iowa Shuttle Service for 1 passenger is $57 as of 2021-07-12
 ![](figs/soybeans.jpg){width=20%}
 ![](figs/cows.jpg){width=12%}
   
-while being [26th in size and 30st in population](https://www.ipl.org/div/stateknow/popchart.html)
+while being [26th in size and 30th in population](https://www.ipl.org/div/stateknow/popchart.html)
 
 
 ## Ames, IA - [one of the best places to live](https://www.amestrib.com/story/news/2020/10/16/ames-ranked-top-15-places-live/3678012001/)
@@ -150,7 +150,7 @@ while being [26th in size and 30st in population](https://www.ipl.org/div/statek
 
 - Geographically
   - Anywhere in Ames
-    - Above Bloomington Rd is Gilbert School District
+    - North of Bloomington Rd is Gilbert School District
 - Type of accommodations
   - [University housing](https://www.housing.iastate.edu/halls-and-apartments/)
   - Apartment complex
@@ -216,6 +216,7 @@ while being [26th in size and 30st in population](https://www.ipl.org/div/statek
 [Start service](https://www.alliantenergy.com/CustomerService/AlliantEnergyService/StartorStopService)
 
 - Furnace/heat
+- Hot water
 - Gas stoves and ovens
 - Fireplaces
 - Laundry dryers
@@ -250,7 +251,7 @@ sent by rail out of state.
 
 ### [Compost](https://www.cityofames.org/government/departments-divisions-i-z/resource-recovery-system/food-waste-diversion)
 
-Free to do it yourself or curbside pickup by [Core Living Compost](https://corelivingcompost.com/)
+Free to do it yourself 
 
 
 
@@ -275,10 +276,8 @@ Free to do it yourself or curbside pickup by [Core Living Compost](https://corel
 - [Farmer's Market](http://www.amesmainstreetfarmersmarket.com/)
 - [Wheatsfield Co-op](https://www.wheatsfield.coop/) - [become a member ($100)](https://www.wheatsfield.coop/member-owner/)
 - [HyVee](https://www.hy-vee.com/) - employee owned
-- [Fareway](https://www.fareway.com/)
-- [Aldi](https://www.aldi.us/)
-- [Target](https://www.target.com/)
-- [Wal-Mart](https://www.walmart.com/)
+- [Fareway](https://www.fareway.com/), [Aldi](https://www.aldi.us/)
+- [Target](https://www.target.com/), [Wal-Mart](https://www.walmart.com/)
 
 - Ames Asia Market West (west Ames)
 - Ames Asian Market (north Ames)
@@ -290,6 +289,7 @@ Free to do it yourself or curbside pickup by [Core Living Compost](https://corel
 - [Goodwill of Central Iowa](https://www.dmgoodwill.org/location/ames/)
 - [Overflow Thrift Store](https://www.overflowthriftstore.org/)
 - [Habitat Store](https://goo.gl/maps/4zhEgyusENqXm8k1A)
+- Garage sales or online marketplaces
 
 
 ## News
@@ -358,7 +358,7 @@ Free to do it yourself or curbside pickup by [Core Living Compost](https://corel
 
 ## [Story County Severe Weather Alert](https://www.storycountyiowa.gov/1155/Story-County-Iowa-Alerts)
 
-- [Opt-In to Receive Severe Weather Alerts on your phone]](https://www.storycountyiowa.gov/1155/Story-County-Iowa-Alerts)
+- [Opt-In to Receive Severe Weather Alerts on your phone](https://www.storycountyiowa.gov/1155/Story-County-Iowa-Alerts)
 - [siren test first Wednesday of every month at 10am](https://www.cityofames.org/Home/Components/Calendar/Event/8898/31)
 - [Tornado Watch < Tornado Warning](https://www.weather.gov/safety/tornado-ww)
 
@@ -375,8 +375,7 @@ Free to do it yourself or curbside pickup by [Core Living Compost](https://corel
 - [Ames Community Theater](https://www.actorsinc.org/)
 - [Iowa State Center](https://www.center.iastate.edu/events/)
 
-- [Torrent Brewing Company](http://torrentbrewingco.com/)
-- [Alluvial Brewing](https://www.alluvialbrewing.com/)
+- [Torrent Brewing Company](http://torrentbrewingco.com/), [Alluvial Brewing](https://www.alluvialbrewing.com/)
 - [Prairie Moon Winery](https://prairiemoonwinery.com/)
 
 
