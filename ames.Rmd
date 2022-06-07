@@ -255,11 +255,9 @@ Free to do it yourself
 
 
 
-## Cell phones
+## [Cell phones](https://coveragecritic.com/coverage-model/best-cell-phone-coverage-plans-in-ames-ia/)
 
-[Cell phone coverage](https://coveragecritic.com/coverage-model/best-cell-phone-coverage-plans-in-ames-ia/): 
-
-![](figs/cellphone_coverage.jpg){width=100%}
+![](figs/cellphone_coverage.png){width=90%}
 
 
 ## Internet
