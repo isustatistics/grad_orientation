@@ -47,8 +47,8 @@ knitr::opts_chunk$set(echo = TRUE)
   - Undergraduate Secretary: Denise Riker
 - ? Atanasoff 
   - Communications: Macy Ott
-- 386 Carver 
-  - (Undergraduate) Academic Advisor: Dawn Walker-Chalmers
+- 1200 Communication Building
+  - (Undergraduate) Academic Advisor: Ignacio Alvarez
 
   
 # People
@@ -88,11 +88,23 @@ knitr::opts_chunk$set(echo = TRUE)
 </div>
 
 
-## [Mark Kaiser](https://www.stat.iastate.edu/people/mark-kaiser) - Director of Graduate Studies
+## [Mark Kaiser](https://www.stat.iastate.edu/people/mark-kaiser) - Outgoing Director of Graduate Studies
 
 <div style="float: left; width: 20%;">
 ![](figs/mark_kaiser.jpg){width=100%}
 
+</div>
+
+<div style="float: right; width: 80%;">
+- Your "major professor" when you enter the program
+- Ask questions related to the Statistics Program
+</div>
+
+
+## [Ulrike Genschel](https://www.stat.iastate.edu/people/ulrike-genschel) - Incoming Director of Graduate Studies
+
+<div style="float: left; width: 20%;">
+![](figs/ulrike_genschel.png){width=100%}
 </div>
 
 <div style="float: right; width: 80%;">
@@ -118,6 +130,8 @@ Dan is extremely friendly, but also extremely busy.
 
 - [Master of Science in Statistics](https://www.stat.iastate.edu/master-science-requirements)
 - [PhD in Statistics](https://www.stat.iastate.edu/phd-requirements)
+- [Co-major PhD](https://www.stat.iastate.edu/statistics-co-major-phd-students)
+- [MS and PhD minor](https://www.stat.iastate.edu/statistics-minor-phd-students)
 
 
 # Computing
@@ -153,7 +167,7 @@ Dan is extremely friendly, but also extremely busy.
 
 
 
-## STATcom
+## [STATcom](https://www.stat.iastate.edu/statistics-community)
 
 > StatCom offers statistical advice and expertise free of charge to governmental and nonprofit groups in the local community
 

@@ -41,7 +41,7 @@ Chimes can be heard every 15 minutes
 
 ![](figs/isu_parking.jpg){width=80%}
 
-[Graduate student commuter (lot 29) permits on sale July 21, 2021](https://www.parking.iastate.edu/permit/student/dates)
+[Graduate student commuter (lot 29) permits on sale July 20, 2022](https://www.parking.iastate.edu/permit/student/dates)
 
 
 ## Free Parking on Nights and Weekends
@@ -205,7 +205,7 @@ for example
 
 ![](figs/lecture_series.png){width=80%}
 
-## [Iowa State Center Performing Arts Series](https://www.center.iastate.edu/broadway/)
+## [Iowa State Center Performing Arts Series](https://www.center.iastate.edu/)
 
 ![](figs/performing_arts.png){width=80%}
 
