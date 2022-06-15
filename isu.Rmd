@@ -37,7 +37,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Chimes can be heard every 15 minutes
 
 
-## [Parking](https://www.parking.iastate.edu/) ($160 / year)
+## [Parking](https://www.parking.iastate.edu/) ($166 / year)
 
 ![](figs/isu_parking.jpg){width=80%}
 
