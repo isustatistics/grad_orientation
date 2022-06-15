@@ -15,9 +15,9 @@ output:
 
 
 - Welcome to ...
-  - [Ames](ames.html)
-  - [Iowa State University (ISU)](isu.html)
-  - [Statistics @ ISU](stat.html)
+  - [Ames](ames.html) (video)[https://youtu.be/-9LBxgYkLsI]
+  - [Iowa State University (ISU)](isu.html) (video)[https://youtu.be/5oL5XWaPV0s]
+  - [Statistics @ ISU](stat.html) (video)[https://youtu.be/5oL5XWaPV0s?t=2561]
 - How to TA!
   - [Assistantships.docx](files/Assistantships.docx)
   - [SummerSeminarSeries.pdf](files/SummerSeminarSeries.pdf)
