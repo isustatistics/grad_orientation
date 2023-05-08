@@ -9,18 +9,19 @@ output:
 
 # Graduate Orientation 
 
-- Additional orientation sessions:
-  - Departmental Orientation on Friday before first week of class
-  - [Graduate College New Student Orientation](https://www.grad-college.iastate.edu/student/orientation/) - Thursday first week of class??
-
-
+- Introductions
+  - [Summer Seminar Series](files/SummerSeminarSeries.pdf)
 - Welcome to ...
-  - [Ames](ames.html) (video)[https://youtu.be/-9LBxgYkLsI]
-  - [Iowa State University (ISU)](isu.html) (video)[https://youtu.be/5oL5XWaPV0s]
-  - [Statistics @ ISU](stat.html) (video)[https://youtu.be/5oL5XWaPV0s?t=2561]
-- How to TA!
-  - [Assistantships.docx](files/Assistantships.docx)
-  - [SummerSeminarSeries.pdf](files/SummerSeminarSeries.pdf)
+  - [Ames](ames.html) 
+  - [Iowa State University (ISU)](isu.html) 
+  - [Statistics @ ISU](stat.html) 
 - Mathematical Background
   - [Introduction to Linear Algebra](files/StatLinearAlgebraIntro.pdf)
-  - [Some required calculus skills for STAT 542 & 543](files/STAT542_543_Calculus.pdf)
+  - [Calculus skills for STAT 542 & 543](files/STAT542_543_Calculus.pdf)
+- [Assistantships](files/Assistantships.docx)
+  
+  
+- Additional orientation sessions:
+  - Departmental Orientation - 
+  - [Graduate College New Student Orientation](https://www.grad-college.iastate.edu/student/orientation/) - 15 Aug 2023 10am-1pm in [Memorial Union](https://www.mu.iastate.edu/)
+  

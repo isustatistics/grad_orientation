@@ -1,7 +1,7 @@
 ---
 title: "ISU STAT Graduate Student Orientation"
 author: "Jarad Niemi"
-date: "2022-06-15"
+date: "2023-05-08"
 output: 
   html_document:
     keep_md: true
@@ -9,19 +9,19 @@ output:
 
 # Graduate Orientation 
 
-- Additional orientation sessions:
-  - 20 Aug 2021 at 2pm
-  - [Graduate College New Student Orientation](https://www.grad-college.iastate.edu/student/orientation/) 
-
-
+- Introductions
+  - [Summer Seminar Series](files/SummerSeminarSeries.pdf)
 - Welcome to ...
-  - [Ames](ames.html)
-  - [Iowa State University (ISU)](isu.html)
-  - [Statistics @ ISU](stat.html)
-- How to TA!
-  - [Assistantships.docx](files/Assistantships.docx)
-  - [SummerSeminarSeries.pdf](files/SummerSeminarSeries.pdf)
+  - [Ames](ames.html) 
+  - [Iowa State University (ISU)](isu.html) 
+  - [Statistics @ ISU](stat.html) 
 - Mathematical Background
   - [Introduction to Linear Algebra](files/StatLinearAlgebraIntro.pdf)
-  - [Some required calculus skills for STAT 542 & 543](files/STAT542_543_Calculus.pdf)
-- [Department Orientation](files/studentorientation2021.pdf)
+  - [Calculus skills for STAT 542 & 543](files/STAT542_543_Calculus.pdf)
+- [Assistantships](files/Assistantships.docx)
+  
+  
+- Additional orientation sessions:
+  - Departmental Orientation - 
+  - [Graduate College New Student Orientation](https://www.grad-college.iastate.edu/student/orientation/) - 15 Aug 2023 10am-1pm in [Memorial Union](https://www.mu.iastate.edu/)
+  
