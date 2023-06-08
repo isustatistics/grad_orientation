@@ -34,34 +34,31 @@ knitr::opts_chunk$set(echo = TRUE)
 - Department Chair: Dan Nettleton
 - Associate Chair: Petrutza Caragea
 - Administrative Assistant II: Kathy Kiesling 
-- Graduate Secretary: Jessica Severe
-- Communications Specialist: Macy Ott
+- Graduate Student Services Specialist II: Michael Boyd
 
 
 ## Additional staff
 
 - IT Support - 2123 Snedecor
   - Information Technology Support III - Mike Brekke
-  - Student Support - Thadeus Booth (summer 2021)
+  - Student Support - Thadeus Booth (summer 2023)
 - 3113 Snedecor
   - Undergraduate Secretary: Denise Riker
-- ? Atanasoff 
-  - Communications: Macy Ott
 - 1200 Communication Building
-  - (Undergraduate) Academic Advisor: Ignacio Alvarez
+  - (Undergraduate) Academic Advisor: Jill Anderson
 
   
 # People
 
-## [Jess Severe](https://www.stat.iastate.edu/people/jessica-severe) - Graduate Secretary
+## [Michael Boyd](https://www.stat.iastate.edu/people/michael-boyd) - Graduate Student Services Specialist II
 
 <div style="float: left; width: 20%;">
-![](figs/jess_severe.jpg){width=100%}
+![](figs/michael-boyd.jpeg){width=100%}
 </div>
 
 <div style="float: right; width: 80%;">
-- She can answer all your questions.
-- If she can't, she knows someone who can. 
+- He can answer all your questions.
+- If he can't, she knows someone who can. 
 </div>
 
 
@@ -95,13 +92,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 </div>
 
-<div style="float: right; width: 80%;">
-- Your "major professor" when you enter the program
-- Ask questions related to the Statistics Program
-</div>
 
-
-## [Ulrike Genschel](https://www.stat.iastate.edu/people/ulrike-genschel) - Incoming Director of Graduate Studies
+## [Ulrike Genschel](https://www.stat.iastate.edu/people/ulrike-genschel) - Director of Graduate Studies
 
 <div style="float: left; width: 20%;">
 ![](figs/ulrike_genschel.png){width=100%}
@@ -142,7 +134,10 @@ Dan is extremely friendly, but also extremely busy.
 - Departmental resources
   - pyrite
   - pronto
+  - sas.iastate.edu
 - [University resources](https://www.hpc.iastate.edu/)
+  - condo
+  - nova
 
 
 
@@ -171,10 +166,15 @@ Dan is extremely friendly, but also extremely busy.
 
 > StatCom offers statistical advice and expertise free of charge to governmental and nonprofit groups in the local community
 
-## Research Groups
+## [Research Working Groups](https://www.stat.iastate.edu/working-group-meetings)
 
+- Bayesian
+- Causal Inference
+- Consulting
+- Forensics
+- Graphical Statistics
+- LunchinatoRs
 - Survey 
-- Graphical statistics
 
 
 

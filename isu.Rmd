@@ -37,18 +37,18 @@ knitr::opts_chunk$set(echo = TRUE)
 Chimes can be heard every 15 minutes
 
 
-## [Parking](https://www.parking.iastate.edu/) ($166 / year)
+## [Parking](https://www.parking.iastate.edu/) ($171 / year)
 
-![](figs/isu_parking.jpg){width=80%}
+![](figs/isu_parking.png){width=70%}
 
-[Graduate student commuter (lot 29) permits on sale July 20, 2022](https://www.parking.iastate.edu/permit/student/dates)
+[Graduate student commuter (lot 29) permits on sale late July](https://www.parking.iastate.edu/commuter)
 
 
-## Free Parking on Nights and Weekends
+## [Free Parking on Nights and Weekends](https://www.parking.iastate.edu/where)
 
 Generally permits required Monday - Friday, 7 am - 5:30 pm
 
-![](figs/isu_parking.jpg){width=70%}
+![](figs/isu_weekend_parking.png){width=70%}
 
 
 ## Bicycles
@@ -85,9 +85,9 @@ Generally permits required Monday - Friday, 7 am - 5:30 pm
 ![](figs/commencement.jpg){width=80%}
 
 
-## [ISU Organizational Chart](https://www.president.iastate.edu/sites/default/files/org/univorg.pdf)
+## [ISU Organizational Chart](https://www.president.iastate.edu/media/15/file/univorg.pdf)
 
-![](figs/isu_org_chart.JPG){width=100%}
+![](figs/isu_org_chart.png){width=100%}
 
 ## [President Wintersteen](https://www.president.iastate.edu/)
 
@@ -156,7 +156,7 @@ Generally permits required Monday - Friday, 7 am - 5:30 pm
 
 ## [ISU Laptop Requirement](https://www.it.iastate.edu/resources/requirementfaq)
 
-- [LAS Specifications](https://www.techcyte.isubookstore.com/major-success-las)
+- [LAS Specifications](https://it.las.iastate.edu/student-computer-recommendations)
   
 ![](figs/las_laptop_requirements.png){width=80%}  
 
