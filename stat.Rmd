@@ -26,26 +26,36 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## [Statistics](https://www.stat.iastate.edu/)
 
+Entry-way mural
+
 ![](figs/mural.jpg){width=80%}
 
+Chaotic data coming from the right into the statistician's brain. 
+Useful information being communicated from the statistician on the right.
 
 ## Main Office - 1121 Snedecor
 
-- Department Chair: Dan Nettleton
-- Associate Chair: Petrutza Caragea
-- Administrative Assistant II: Kathy Kiesling 
-- Graduate Student Services Specialist II: Michael Boyd
+- Dan Nettleton
+  - Department Chair
+- Petru&#539;a Caragea
+  - Associate Chair
+- Kathy Kiesling
+  - Administrative Assistant II 
+- Michael Boyd: 
+  - Graduate Student Services Specialist II
 
 
 ## Additional staff
 
-- IT Support - 2123 Snedecor
-  - Information Technology Support III - Mike Brekke
-  - Student Support - Thadeus Booth (summer 2023)
-- 3113 Snedecor
-  - Undergraduate Secretary: Denise Riker
-- 1200 Communication Building
-  - (Undergraduate) Academic Advisor: Jill Anderson
+- Mike Brekke
+  - IT Coordinator
+  - 2123 Snedecor
+- Denise Riker
+  - (Undergraduate) Secretary II
+  - 3113 Snedecor
+- Jill Anderson
+  - (Undergraduate) Academic Advisor II
+  - 1200 Communication Building
 
   
 # People
@@ -58,7 +68,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div style="float: right; width: 80%;">
 - He can answer all your questions.
-- If he can't, she knows someone who can. 
+- If he can't, he knows someone who can. 
 </div>
 
 
@@ -74,10 +84,10 @@ knitr::opts_chunk$set(echo = TRUE)
 </div>
 
 
-## [Petrutza Caragea](https://www.stat.iastate.edu/people/petruta-caragea) - Associate Chair
+## [Petru&#539;a Caragea](https://www.stat.iastate.edu/people/petruta-caragea) - Associate Chair
 
 <div style="float: left; width: 20%;">
-![](figs/petrutza_caragea.jpg){width=100%}
+![](figs/petruta_caragea.jpg){width=100%}
 </div>
 
 <div style="float: right; width: 80%;">
