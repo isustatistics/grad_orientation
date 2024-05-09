@@ -25,8 +25,3 @@ output:
   - [Calculus skills for STAT 542 & 543](files/STAT542_543_Calculus.pdf)
 - [Assistantships](files/Assistantships.docx)
   
-  
-- Additional orientation sessions:
-  - Departmental Orientation - 
-  - [Graduate College New Student Orientation](https://www.grad-college.iastate.edu/student/orientation/) - 15 Aug 2023 10am-1pm in [Memorial Union](https://www.mu.iastate.edu/)
-  
