@@ -1,0 +1,55 @@
+---
+title: "Important Dates"
+author: "Jarad Niemi"
+date: "2024-05-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+August will be a busy month. 
+Here are some important dates
+
+## Appointment
+
+- Aug 15: Appointment starts
+
+This date is chosen so that you will be paid for the first time on August 25
+rather than September 9. 
+Before the appointment can begin, you need to complete an electronic I-9 and, 
+within 3 days of this date, present [identity and employment authorization 
+documents](https://isso.dso.iastate.edu/i-9-schedule) **IN PERSON**. 
+
+- Aug 19: Assistantship duties start
+
+Teaching assistants are required to be on campus and ready to begin duties
+one week before the beginning of the semester. 
+
+## International Students
+
+- Aug 15-17: [English Placement Test (EPT)](https://apling.engl.iastate.edu/english-placement-test/)
+- Aug 19-23?: [Oral English Certification Test (OECT)](https://cce.grad-college.iastate.edu/speaking/oect-for-itas)
+- Aug 22: [International Students and Scholars Office (ISSO) Reporting Date](https://isso.dso.iastate.edu/new-student-orientation/fall-orientation/graduate-and-transfer-students)
+
+## Orientation
+
+- Aug 19&21?: Statistics (STAT) Department Orientations
+- Aug 20 8:00AM - 11:00AM: [Center for Excellence in Learning and Teaching (CELT) Teaching Symposium](https://www.celt.iastate.edu/professional-development/celt-teaching-symposium/)
+- Aug 22?: College of Agriculture and Life Science (CALS)
+- Aug 23?: [Graduate College](https://www.grad-college.iastate.edu/student/orientation/)  
+- Aug 23: [ISSO](https://isso.dso.iastate.edu/new-student-orientation/fall-orientation/graduate-and-transfer-students)
+
+## Other To Do
+
+There are lots of [other things you need to do](https://www.grad-college.iastate.edu/student/checklist/) 
+when you first move to a new town. 
+
+- Get [Iowa State University ID Card (ISU Card)](https://www.isucard.iastate.edu/)
+- Get [State of Iowa ID Card](https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2fLicenseReplacement%2fDocumentDiscriminator)
+- Furnish Your Apartment
+- Buy Renter's Insurance
+- Create Account for Utilities
+- Acclimate to Transportation, e.g. [CyRide](https://www.cyride.com/)
+
