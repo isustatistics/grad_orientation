@@ -41,6 +41,12 @@ one week before the beginning of the semester.
 - Aug 23?: [Graduate College](https://www.grad-college.iastate.edu/student/orientation/)  
 - Aug 23: [ISSO](https://isso.dso.iastate.edu/new-student-orientation/fall-orientation/graduate-and-transfer-students)
 
+## Other Dates
+
+- Aug 24: Ice Cream Social @ Dr. Dan Nettleton's house
+- Aug 25: Departmental Picnic
+- Aug 26: Classes Start
+
 ## Other To Do
 
 There are lots of [other things you need to do](https://www.grad-college.iastate.edu/student/checklist/) 
@@ -51,5 +57,5 @@ when you first move to a new town.
 - Furnish Your Apartment
 - Buy Renter's Insurance
 - Create Account for Utilities
-- Acclimate to Transportation, e.g. [CyRide](https://www.cyride.com/)
+- Acclimate to Transportation, e.g. [CyRide](https://isustatistics.github.io/grad_orientation/ames.html#16)
 

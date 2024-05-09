@@ -167,16 +167,22 @@ while being [26th in size and 30th in population](https://www.ipl.org/div/statek
 
 ![](figs/university_housing.jpg){width=70%}
 
+## University Housing Details
+
+- Strict [Move-in](https://www.housing.iastate.edu/guide/move-in/fall/)/Move-out Dates
+    - [Interim Housing ($25/night)](https://www.housing.iastate.edu/guide/move-in/fall/early-arrivals/)
+    - [ISSO Temporary Housing ($99/night)](https://isso.dso.iastate.edu/new-student-orientation/fall-orientation/graduate-and-transfer-students)
+- Expense is per semester and billed up front
 
 ## Apartment/House Search
 
-- [Iowa Housing Search](https://iowahousingsearch.org/)
 
 - [apartments.com](https://www.apartments.com/ames-ia/)
 - [zillow.com](https://www.zillow.com/ames-ia/apartments/)
 - [apartmentfinder.com](https://www.apartmentfinder.com/Iowa/Ames-Apartments)
 
 - [Hunziker Property Management](https://www.hunziker.com/)
+- [Iowa Housing Search](https://iowahousingsearch.org/)
 
 (no recommendations or endorsements are being made)
 
@@ -187,11 +193,11 @@ while being [26th in size and 30th in population](https://www.ipl.org/div/statek
 ![](figs/rent_smart_ames.jpg){width=100%}
 
 
-## Rental Quirks in Ames
+## Rental in Ames
 
-- University housing has strict move-in/move-out dates
-- Other rental agreements run Aug 1 to July 31
-- other ???
+- Security deposit (not to exceed two months' rent)
+- Rental agreements run Aug 1 to July 31
+
 
 
 
