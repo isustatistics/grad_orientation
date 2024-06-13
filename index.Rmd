@@ -9,6 +9,17 @@ output:
 
 # Graduate Orientation 
 
+## 2024-06-13
+
+- [Registration](files/registration.pptx)
+
+## 2024-05-30
+
+- [Summer Seminar Series](files/SummerSeminarSeries.pdf)
+- [Introduction to Linear Algebra](files/StatLinearAlgebraIntro.pdf)
+
+## 2024-05-09
+
 - [Important Dates](dates.html)
 - [Housing](https://isustatistics.github.io/grad_orientation/ames.html#21)
 - [Fly to DSM](https://isustatistics.github.io/grad_orientation/ames.html#2)
