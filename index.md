@@ -1,13 +1,25 @@
 ---
 title: "ISU STAT Graduate Student Orientation"
 author: "Jarad Niemi"
-date: "2024-05-09"
+date: "2024-06-15"
 output: 
   html_document:
     keep_md: true
 ---
 
 # Graduate Orientation 
+
+## 2024-06-13
+
+- [Registration](files/registration.pptx)
+- [Welcome to STAT@ISU!](https://iastate.box.com/s/umbtggvcmdd4cspzjzywhdirwjo6y2b7)
+
+## 2024-05-30
+
+- [Summer Seminar Series](files/SummerSeminarSeries.pdf)
+- [Introduction to Linear Algebra](files/StatLinearAlgebraIntro.pdf)
+
+## 2024-05-09
 
 - [Important Dates](dates.html)
 - [Housing](https://isustatistics.github.io/grad_orientation/ames.html#21)
