@@ -1,13 +1,17 @@
 ---
 title: "ISU STAT Graduate Student Orientation"
 author: "Jarad Niemi"
-date: "2024-06-15"
+date: "2024-06-27"
 output: 
   html_document:
     keep_md: true
 ---
 
 # Graduate Orientation 
+
+## 2024-06-27
+
+- [Real Analysis / Advanced Calculus](files/641-intro-new-students.pdf)
 
 ## 2024-06-13
 
