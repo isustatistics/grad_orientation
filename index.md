@@ -1,13 +1,24 @@
 ---
 title: "ISU STAT Graduate Student Orientation"
 author: "Jarad Niemi"
-date: "2024-06-27"
+date: "2024-07-24"
 output: 
   html_document:
     keep_md: true
 ---
 
 # Graduate Orientation 
+
+## 2024-07-24
+
+- [GA Insurance Benefits](files/GA Insurance Benefits .pdf)
+- [UHR - Workday Onboarding](files/UHR - Workday Onboarding Quick Reference Guide for Graduate Assistants.pdf)
+- [I-9 Info.pdf](files/I-9 Info.pdf)
+- [Ames](ames.html)
+
+## 2024-07-18
+
+- [Calculus](files/STAT542_543_Calculus.pdf)
 
 ## 2024-06-27
 
