@@ -9,7 +9,7 @@ output:
 
 # Graduate Orientation 
 
-## 2024-07-24
+## 2024-07-25
 
 - [GA Insurance Benefits](files/GA Insurance Benefits .pdf)
 - [UHR - Workday Onboarding](files/UHR - Workday Onboarding Quick Reference Guide for Graduate Assistants.pdf)
