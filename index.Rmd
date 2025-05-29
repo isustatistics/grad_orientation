@@ -9,6 +9,18 @@ output:
 
 # Graduate Orientation 
 
+## 2025-05-29
+
+- [Immigration Updates](https://isso.dso.iastate.edu/resources/immigration-updates)
+- [Assistantships]()
+
+## 2025-05-15
+
+- [Important Dates](dates.html)
+- [Housing](https://isustatistics.github.io/grad_orientation/ames.html#21)
+- [Fly to DSM](https://isustatistics.github.io/grad_orientation/ames.html#2)
+- [F1 Visa](https://isso.dso.iastate.edu/students/f-1-students/f-1-students-guide)
+
 ## 2024-07-25
 
 - [GA Insurance Benefits](files/GA Insurance Benefits .pdf)
