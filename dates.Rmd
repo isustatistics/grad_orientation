@@ -1,7 +1,7 @@
 ---
 title: "Important Dates"
 author: "Jarad Niemi"
-date: "2024-05-09"
+date: "r Sys.Date()`"
 output: html_document
 ---
 
