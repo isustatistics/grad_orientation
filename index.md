@@ -1,13 +1,27 @@
 ---
 title: "ISU STAT Graduate Student Orientation"
 author: "Jarad Niemi"
-date: "2024-07-25"
+date: "2025-05-29"
 output: 
   html_document:
     keep_md: true
 ---
 
 # Graduate Orientation 
+
+## 2025-05-29
+
+- [Immigration Updates](https://isso.dso.iastate.edu/resources/immigration-updates)
+- Assistantships
+- [Linear Algebra](files/StatLinearAlgebraIntro.pdf)
+
+## 2025-05-15
+
+- [Important Dates](dates.html)
+- [Housing](https://isustatistics.github.io/grad_orientation/ames.html#21)
+- [Fly to DSM](https://isustatistics.github.io/grad_orientation/ames.html#2)
+- [F1 Visa](https://isso.dso.iastate.edu/students/f-1-students/f-1-students-guide)
+- [ISSO Slides](files/ISSO_Graduate_Pre-Arrival_Slide.pptx)
 
 ## 2024-07-25
 
