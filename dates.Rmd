@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 August will be a busy month. 
-Here are some important dates
+Here are some important dates.
 
 ## Appointment
 
@@ -33,16 +33,18 @@ one week before the beginning of the semester.
 - Aug 18-22?: [Oral English Certification Test (OECT)](https://cce.grad-college.iastate.edu/speaking/oect-for-itas)
 - Aug 20: [International Students and Scholars Office (ISSO) Reporting Date](https://isso.dso.iastate.edu/new-students/graduate/orientation)
 
-## Orientation
+## Orientations
 
-- Aug 18&20?: Statistics (STAT) Department Orientations
-- Aug 19: [Center for Excellence in Learning and Teaching (CELT) Teaching Symposium](https://www.celt.iastate.edu/professional-development/celt-teaching-symposium/)
-- Aug 20: [ISSO](https://isso.dso.iastate.edu/new-students/graduate/orientation)
-- Aug 21 10am-4pm: [Graduate College](https://www.grad-college.iastate.edu/student#orientation)  
+- Aug 15 & 18: Statistics Department Incoming Graduate Student Orientation
+- Aug 19: Statistics Department All Graduate Student Start-Up Meeting
+- Aug 19: [Center for Excellence in Learning and Teaching (CELT) Teaching Symposium](https://www.celt.iastate.edu/professional-development/celt-teaching-symposium/) (New faculty, staff, and graduate students)
+- Aug 20: [ISSO Graduate Student Orientaiton](https://isso.dso.iastate.edu/new-students/graduate/orientation)
+- Aug 21 10am-4pm: [Graduate College Orientation](https://www.grad-college.iastate.edu/student#orientation) 
 - Aug 22?: College of Agriculture and Life Science (CALS)
 
 ## Other Dates
 
+- Aug 11 & 12: Written Qualifying PhD Exam (optional)
 - Aug 23?: Ice Cream Social @ Dr. Dan Nettleton's house
 - Aug 24?: Departmental Picnic
 - Aug 25: Classes Start
