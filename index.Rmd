@@ -12,7 +12,8 @@ output:
 ## 2025-05-29
 
 - [Immigration Updates](https://isso.dso.iastate.edu/resources/immigration-updates)
-- [Assistantships]()
+- Assistantships
+- [Linear Algebra](files/StatLinearAlgebraIntro.pdf)
 
 ## 2025-05-15
 
