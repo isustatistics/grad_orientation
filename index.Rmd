@@ -21,6 +21,7 @@ output:
 - [Housing](https://isustatistics.github.io/grad_orientation/ames.html#21)
 - [Fly to DSM](https://isustatistics.github.io/grad_orientation/ames.html#2)
 - [F1 Visa](https://isso.dso.iastate.edu/students/f-1-students/f-1-students-guide)
+- [ISSO Slides](files/ISSO_Graduate_Pre-Arrival_Slide.pptx)
 
 ## 2024-07-25
 
