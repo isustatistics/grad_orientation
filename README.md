@@ -10,6 +10,6 @@ In particular, you can find the orientation slides [here](https://isustatistics.
 
 Compile Rmd files using `rmarkdown::render()`.
 
-    render("index.Rmd", output_file = "index.html")
+    render("index.Rmd", output_file = "index.md")
     render("dates.Rmd", output_file = "dates.html")
     
