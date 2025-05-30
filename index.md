@@ -1,7 +1,7 @@
 ---
 title: "ISU STAT Graduate Student Orientation"
 author: "Jarad Niemi"
-date: "2025-05-29"
+date: "2025-05-30"
 output: 
   html_document:
     keep_md: true
@@ -14,7 +14,7 @@ output:
 ## 2025-05-29
 
 - [Immigration Updates](https://isso.dso.iastate.edu/resources/immigration-updates)
-- Assistantships
+- [Nettleton's Slides](files/Nettleton Slides.pdf)
 - [Linear Algebra](files/StatLinearAlgebraIntro.pdf)
 
 ## 2025-05-15
